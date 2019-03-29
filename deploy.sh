@@ -20,6 +20,10 @@ git commit -m 'deploy'
  #git push -f git@github.com:Dev01FC/dlab.github.io.git master
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO> blaa
+#https://USER@github.com/USER/PROJECT.git
+
+
  git push -f git@github.com:Dev01FC/dlab.git master:gh-pages
+ 
 
 cd -
